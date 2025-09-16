@@ -72,3 +72,10 @@
     "cpus": "4"
   }
 }
+git config commit.template {path to file} commit 87b503f5e190e13359d4abb3e2fccd04e949d8df
+Author: I.M. Developer <imdeveloper@getlaminas.org>
+Date:   Wed Apr 01 14:46:40 2020 -0500
+
+  Fix typo in the README.
+
+  Obvious fix.
